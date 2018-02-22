@@ -1,5 +1,5 @@
 # Node.js Camera Server
-4.13.0-32-generic #35~16.04.1-Ubuntu
+Linux 4.13.0-32-generic #35~16.04.1-Ubuntu
 
 Architecture:          x86_64
 CPU op-mode(s):        32-bit, 64-bit
